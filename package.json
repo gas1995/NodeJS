@@ -9,6 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/gas1995/NodeJS.git"
   },
+  "keywords": [
+    "\"node",
+    "eslint",
+    "prettier\""
+  ],
   "author": "gas1995",
   "license": "ISC",
   "bugs": {
